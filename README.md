@@ -19,7 +19,9 @@ I'm currently expanding my frontend skills by learning **Vue.js** and **Angular*
 - Node.js, MongoDB, REST API (backend)
 - WebSocket for real-time collaboration
 
-🔗 [View Minday Repository](https://github.com/shohamshtiler/minday)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View-blueviolet?style=for-the-badge&logo=linktree&logoColor=white)](https://minday.onrender.com)
+
+
 
 ---
 
