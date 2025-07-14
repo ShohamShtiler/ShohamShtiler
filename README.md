@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/drx3ncwmd/image/upload/v1752523536/Copilot_20250714_230521_a53wld.png" alt="Shoham Shtiler Banner" width="900" height="500"  />
+  <img src="https://res.cloudinary.com/drx3ncwmd/image/upload/v1752524534/Copilot_20250714_230521_1_oqpisp.png" alt="Shoham Shtiler Banner" height="350" width=100%  />
 </p>
 
 ---
