@@ -68,7 +68,7 @@ I'm currently expanding my frontend skills by learning **Vue.js** and **Angular*
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shohamshtiler" target="_blank">
+  <a href="https://www.linkedin.com/in/shoham-shtiler-24a8b0374/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shtilershoham@gmail.com">
