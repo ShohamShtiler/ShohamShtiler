@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/drx3ncwmd/image/upload/v1752828759/Pink_and_Black_Modern_Computer_Presentation_sno13n.png" alt="Shoham Shtiler Banner" height="500" width=100%  />
+  <img src="https://res.cloudinary.com/drx3ncwmd/image/upload/v1752828759/Pink_and_Black_Modern_Computer_Presentation_sno13n.png" alt="Shoham Shtiler Banner" height=450" width=100%  />
 </p>
 
 ---
